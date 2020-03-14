@@ -1,2 +1,5 @@
 # InteliJ系エディタ情報
 .idea/*
+
+# python系
+*.pyc
